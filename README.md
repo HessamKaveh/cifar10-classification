@@ -17,7 +17,7 @@ This project uses ResNet18 and PyTorch to classify images from the CIFAR10 datas
 
 ## Training
 
-bash
+
 python train.py
 
 
